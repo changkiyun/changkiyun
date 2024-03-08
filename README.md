@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=black&theme=cobalt&height=300&section=header&text=Chang's%20github&fontSize=90&animation=blink" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=3DFF92&theme=cobalt&height=350&section=header&text=Changki%20github&fontSize=90&animation=blink" />
 <div></div>
 
 <div>
@@ -12,7 +12,11 @@
   <h5>Stack</h5>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-6DB33F?style=for-the-badge&logo=java&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVA-008080?style=for-the-badge&logo=OPENJDK&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=for-the-badge&logo=javaScript&logoColor=white"/>
 </div>
 
 <div>&nbsp;</div>
