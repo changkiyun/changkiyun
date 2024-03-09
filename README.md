@@ -17,6 +17,10 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JAVA-008080?style=for-the-badge&logo=OPENJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=for-the-badge&logo=javaScript&logoColor=white"/>
+
+  <br>
+  <h5>Stack</h5>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
 </div>
 
 <div>&nbsp;</div>
