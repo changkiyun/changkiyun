@@ -7,7 +7,6 @@
   <h5>StudyNote</h5>
   <a href="https://www.notion.so/d18f906a41764075b0d691b29c0888fd">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
 
   <h5>Stack</h5>
