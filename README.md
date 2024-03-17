@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/JAVA-008080?style=for-the-badge&logo=OPENJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=for-the-badge&logo=javaScript&logoColor=white"/>
 
-  <br>
+  <br><br>
   <h5>Tools</h5>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
