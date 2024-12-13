@@ -1,40 +1,23 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Changki&nbsp;Github!&fontSize=90" />
 <div></div>
-
 <div>
 </p>
-  <h5>StudyNote</h5>
-  <a href="https://www.notion.so/d18f906a41764075b0d691b29c0888fd">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  </a>
+  <h5>Language</h5>
+  
+  [![My Skills](https://skillicons.dev/icons?i=java,js)](https://skillicons.dev)
+  
+  <h5>Framework</h5>
+  
+  [![My Skills](https://skillicons.dev/icons?i=spring,react)](https://skillicons.dev)
 
-  <h5>Stack</h5>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JAVA-008080?style=for-the-badge&logo=OPENJDK&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=for-the-badge&logo=javaScript&logoColor=white"/>
+  <h5>Deploy</h5>
 
-  <br>
+  [![My Skills](https://skillicons.dev/icons?i=aws,docker,nginx,githubactions)](https://skillicons.dev)
+
   <h5>Tools</h5>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-  
-  
-  
-  
-</div>
 
-<div>&nbsp;</div>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changkiyun&show_icons=true&theme=transparent)
-<br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changkiyun&layout=compact&theme=transparent)
+  [![My Skills](https://skillicons.dev/icons?i=git,notion,vscode,idea)](https://skillicons.dev)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&fontSize=90" />
 </div>
