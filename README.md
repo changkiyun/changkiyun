@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&color=3DFF92&theme=cobalt&height=350&section=header&text=Changki%20github&fontSize=90&animation=blink" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90" />
 <div></div>
 
 <div>
