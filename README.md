@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Changki&nbsp;Github!&fontSize=90" />
 <div></div>
-  <br>
+
 <div>
 </p>
   <h5>Language</h5>
