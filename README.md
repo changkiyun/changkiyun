@@ -4,7 +4,7 @@
 
 <div>
 </p>
-  <h5>Language</h5>
+  <h5>Languagee</h5>
   
   [![My Skills](https://skillicons.dev/icons?i=java,js)](https://skillicons.dev)
   
